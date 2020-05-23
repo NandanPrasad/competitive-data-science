@@ -1,3 +1,3 @@
-## Materials for "How to Win a Data Science Competition: Learn from Top Kagglers" course
+<h1 align="center"> Kaggle Competition: Predict Future Sales of 1C Company </h1>
 
-This repository contains programming assignments notebooks for the [course](https://www.coursera.org/learn/competitive-data-science/home/welcome) about competitive data science.
+This repository contains all my work associated with the [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science/home/welcome) course on Coursera by National Research University Higher School of Economics.
